@@ -2,4 +2,4 @@ Here is a certificate for the completion of the Implementing and Administering M
 
 Please note that this is study material and may not be entirely accurate. It is not intended for use in a professional environment, as I am still building proficiency in Microsoft Sentinel.
 
-Link to the repository: GitHub Repo
+Link to the repository: [GitHub Repo](https://github.com/thomaskunrath/sentinel_intro)
